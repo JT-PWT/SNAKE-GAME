@@ -1,0 +1,8 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    color: rgb(44, 139,44);
+    
+}
